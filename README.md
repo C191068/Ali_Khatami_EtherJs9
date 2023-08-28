@@ -5,3 +5,6 @@
 We can also prettier as node.js module that can tell other users who don't have VS code <br>
 how to format their both javascript and solidity <br>
 
+![m24](https://github.com/C191068/Ali_Khatami_EtherJs9/assets/89090776/6cc6ba69-9a50-4c33-b058-37a2f6794198)
+We have a created a new file .prettierrc <br>
+
