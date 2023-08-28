@@ -14,4 +14,10 @@ here we can define what we want for both our solidiy and javavscript <br>
 
 For example in our akrkSimpleStorage.sol there is a tab width of ```4``` <br>
 
+![m26](https://github.com/C191068/Ali_Khatami_EtherJs9/assets/89090776/b1ebdc0b-ad90-45b0-9c7b-f1009a6f18f9)
+
+Now we set the tab width = 2;
+
+![m27](https://github.com/C191068/Ali_Khatami_EtherJs9/assets/89090776/581d40f4-37f7-4ac1-8dce-16ab0db7e7ca)
+thus we can see here only 2 spaces <br>
 
