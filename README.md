@@ -21,3 +21,12 @@ Now we set the tab width = 2;
 ![m27](https://github.com/C191068/Ali_Khatami_EtherJs9/assets/89090776/581d40f4-37f7-4ac1-8dce-16ab0db7e7ca)
 thus we can see here only 2 spaces <br>
 
+![m30](https://github.com/C191068/Ali_Khatami_EtherJs9/assets/89090776/9ae6c91e-7b8a-415a-b454-ad388a284672)
+
+now to remove the semi colon i have use the above line of code <br>
+
+
+
+
+
+
