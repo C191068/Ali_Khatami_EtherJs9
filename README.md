@@ -30,6 +30,10 @@ now to remove the semi colon i have use the above line of code <br>
 
 here we can see the semi colon automatically goes away <br>
 
+![m32](https://github.com/C191068/Ali_Khatami_EtherJs9/assets/89090776/74850cf4-d5fa-40e2-8c59-ac03f02b015e)
+
+here i have use the baove code since i want to use spaces <br>
+
 
 
 
