@@ -26,6 +26,9 @@ thus we can see here only 2 spaces <br>
 
 now to remove the semi colon i have use the above line of code <br>
 
+![m31](https://github.com/C191068/Ali_Khatami_EtherJs9/assets/89090776/f1a82731-48f5-4ee8-8f6a-b8a3d6d235c5)
+
+here we can see the semi colon automatically goes away <br>
 
 
 
